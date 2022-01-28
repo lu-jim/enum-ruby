@@ -8,7 +8,7 @@ class MyList
 
   def each
       @list.each {
-
+        |number| yield number if block_given?
       }
     end
 end
