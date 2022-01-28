@@ -14,5 +14,10 @@ module MyEnumerable
   end
 
   def filter
+    result = []
+    @list.each do |number|
+      result.push(number) if yield(number)
+    end
+    result
   end
 end
