@@ -26,6 +26,12 @@ To get a local copy up and running follow these simple steps.
 - Twitter: [@lujimhe](https://twitter.com/lujimhe)
 - LinkedIn: [@lujim](https://www.linkedin.com/in/lujim/)
 
+👤 **Jim Ntare**
+
+- GitHub: [Ntare22](https://github.com/ntare22)
+- Twitter: [@jimNtare](https://twitter.com/jimNtare)
+- LinkedIn: [Jim Ntare](https://linkedin.com/in/jimntare)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
