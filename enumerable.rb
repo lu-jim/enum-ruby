@@ -7,6 +7,10 @@ module MyEnumerable
   end
 
   def any?
+    @list.each do |number|
+      return true if yield(number)
+    end
+    false
   end
 
   def filter
